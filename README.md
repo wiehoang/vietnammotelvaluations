@@ -7,8 +7,8 @@ Use Python to get data insights to answer 2 main questions:
 ## Method
 Going through 3 steps:
 - Step 1: Collect raw data from one of the most well-known real estate website in Vietnam batdongsan.com.vn using Selenium.
-- Step 2: Clean and fulfil data using some Python's libraries such as Google map services...
-- Step 3: Use Azure Data Studio to query into needed table for visualization purpose.
+- Step 2: Clean and fulfil data using Pandas.
+- Step 3: Use SQL to query into needed table for visualization purpose.
 - Step 4: Visualize data on Tableau Public.
 
 ## Next Actions
