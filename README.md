@@ -13,5 +13,5 @@ Going through 3 steps:
 
 ## Next Actions
 - Dataset:
-  - Update Hanoi (all city/province in Vietnam maybe).
-  - Collect raw data from other website sources.
+  - Update other cities/provinces in Vietnam (but Ho Chi Minh city has 10.374 motels - 91.5% all of that website's motels).
+  - Collect raw data from other websites to extend motels beside Ho Chi Minh city.
